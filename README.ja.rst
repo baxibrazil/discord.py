@@ -9,7 +9,7 @@ discord.py
    :alt: PyPIのバージョン情報
 .. image:: https://img.shields.io/pypi/pyversions/discord.py.svg
    :target: https://pypi.python.org/pypi/discord.py
-   :alt: PyPIのサポートしているPythonのバージョン
+ 
 
 discord.py は機能豊富かつモダンで使いやすい、非同期処理にも対応したDiscord用のAPIラッパーです。
 
